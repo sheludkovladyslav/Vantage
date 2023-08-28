@@ -1,0 +1,29 @@
+@import url(/src/css/styles/header.css);
+@import url(/src/css/styles/main.css);
+@import url(/src/css/styles/footer.css);
+
+body {
+  color: #141414;
+  font-family: Open Sans;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 25.5px; /* 150% */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+}
+
+li {
+    list-style: none;
+}
